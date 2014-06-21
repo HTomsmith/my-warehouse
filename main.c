@@ -39,6 +39,6 @@ int main()
 		days=days+now.day;
 	}
 	printf("days=%d",days);
-	printf("@@@@@@@@222\n");
+
 	printf("CHANGE");
 }
